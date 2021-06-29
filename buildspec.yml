@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/Audit-Web-Portal.jar
+    - target/audit-web-portal.war
   discard-paths: yes
